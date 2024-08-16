@@ -1,1 +1,2 @@
 # Fifa-World-Cup-Web-Scraping
+This project involved scraping data from a table about the previous FIFA World Cup to analyze and rank the best teams based on various factors, such as average successful passes completed, successful dribbles, successful shots on goal, and more. We used Pandas, NumPy, and BeautifulSoup for data scraping and cleaning, while Matplotlib was utilized for data visualization..
